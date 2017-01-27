@@ -5,8 +5,8 @@ Plan for Classes
 |No   | Topic                         |         Date          |       Time     |
 |-----|:-----------------------------:|:---------------------:|---------------:|
 |  1  |  Introduction to E-Prime<br>Creating First Experiment    | Friday, 3.02.2017     | 13:00 - 16:00                 
-|  2  |  Program basic experiment<br>Analyze your data                            | Tuesday, 7.02.2017    | 10:30 - 12:30  |
-|  3  |                               | Friday, 10.02.2017    | 13:00 - 15:00  |
+|  2  |  Program basic experiment using Lists, Images<br>Save Analyze your data | Tuesday, 7.02.2017    | 10:30 - 12:30  |
+|  3  |  Program experiment with Audio<br>Randomizing Trials                           | Friday, 10.02.2017    | 13:00 - 15:00  |
 
 ### Markdown
 
