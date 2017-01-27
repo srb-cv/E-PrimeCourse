@@ -8,9 +8,15 @@ Plan for Classes
 |  2  |  Program basic experiment using Lists, Images<br>Save Analyze your data | Tuesday, 7.02.2017    | 10:30 - 12:30  |
 |  3  |  Program experiment with Audio<br>Randomizing Trials                           | Friday, 10.02.2017    | 13:00 - 15:00  |
 
-### Markdown
+### Get E-Prime
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our tutorial will be on E-Prime version 2.0, one can download the evaluation copy for personal computers from the below given link.
+<br>NOTE: Evaluation copy provides limited features.
+<br>LINK: *[Download Evaluation Copy](http://www.pstnet.com/support/getep2.asp?Type=Eval)*
+
+### Materials for Study
+
+
 
 ```markdown
 Syntax highlighted code block
