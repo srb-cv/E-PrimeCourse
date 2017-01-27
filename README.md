@@ -2,11 +2,11 @@
 
 Plan for Classes
 
-|No   | Topic | Date |
-|-----|:-----:|-----:|
-|  1  |       |      |
-|  2  |       |      |
-|  3  |       |      |
+|No   | Topic                         |         Date          |       Time     |
+|-----|:-----------------------------:|:---------------------:|---------------:|
+|  1  |  Introduction to E-Prime<br>Creating First Experiment    | Friday, 3.02.2017     | 13:00 - 16:00                 
+|  2  |  Program basic experiment<br>Analyze your data                            | Tuesday, 7.02.2017    | 10:30 - 12:30  |
+|  3  |                               | Friday, 10.02.2017    | 13:00 - 15:00  |
 
 ### Markdown
 
