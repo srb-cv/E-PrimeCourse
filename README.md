@@ -12,9 +12,9 @@ Plan/Schedule for Classes
 
 ### Get E-Prime
 
-Our tutorial will be on E-Prime version 2.0, one can download the evaluation copy for personal computers(Windows 7,8 or 10) from the below given link.
-<br>LINK: *[Download Evaluation Copy](http://www.pstnet.com/support/getep2.asp?Type=Eval)*
-<br>NOTE: Evaluation copy provides limited features.
+Our tutorial will be on E-Prime version 2.0, one can download the evaluation copy for personal computers(Windows 7,8 or 10) from the link sent to all participants.
+
+<br>NOTE: Evaluation copy provides limited features only.
 
 ### Materials for Study and Reference
 
