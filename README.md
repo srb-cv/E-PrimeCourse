@@ -28,5 +28,5 @@ Our tutorial will be on E-Prime version 2.0, one can download the evaluation cop
 * [GoogleGroup](https://groups.google.com/forum/#!forum/e-prime)<br> Global Platform to share issues and solutions faced on E-Prime.
 
 ### Exercise Materials
-[Exercise 1](https://github.com/srb-cv/E-PrimeCourse/tree/master/Exercise1) - ***Solution available now***
+[Exercise 1](https://github.com/srb-cv/E-PrimeCourse/tree/master/Exercise1) - ***Solution available now***<br>
 [Exercise 2](https://github.com/srb-cv/E-PrimeCourse/tree/master/Exercise2)
