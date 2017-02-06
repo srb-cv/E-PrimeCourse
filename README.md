@@ -29,3 +29,4 @@ Our tutorial will be on E-Prime version 2.0, one can download the evaluation cop
 
 ### Exercise Materials
 [Exercise 1](https://github.com/srb-cv/E-PrimeCourse/tree/master/Exercise1) - ***Solution available now***
+[Exercise 2](https://github.com/srb-cv/E-PrimeCourse/tree/master/Exercise2)
