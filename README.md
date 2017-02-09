@@ -21,6 +21,7 @@ Our tutorial will be on E-Prime version 2.0, one can download the evaluation cop
 * [Getting Started Guide](http://step.psy.cmu.edu/materials/manuals/start.pdf)<br>It contains step by step instructions with visual aids to create and run your first experiment.
 * [E-Prime User's Guide](http://step.psy.cmu.edu/materials/manuals/users.pdf)<br>It covers all essesntial functionalities on E-prime using various packages.
 * [E-Prime Reference Guide](http://step.psy.cmu.edu/materials/manuals/reference.pdf)<br>It contains documentation all the objects covering all packages in E-Prime.
+* [E-Primer Workbook](http://step.psy.cmu.edu/materials/EPrimer.pdf)<br>Exercises in the lecture are based on the workbook
 
 
 ### Important Links
